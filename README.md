@@ -5,6 +5,5 @@
 - 📫 How to reach me https://www.facebook.com/Aloezito/ or Aloe#9700 on discord
 
 <!---
-Aloezito/Aloezito is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Aloe#9700
 --->
